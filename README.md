@@ -1,4 +1,4 @@
-# Clone Tela de Login Instagram
+<h1 align="center"> Clone Tela de Login Instagram </h1>
 
 Desafio bootcamp Spread Fullstack Developer na DIO
 
